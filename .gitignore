@@ -1,0 +1,7 @@
+dataset/pftn/Step4.25.ewf._text
+dataset/pftn/Step4.25.ewf.fvm_surface.vtk
+dataset/RC/convert_materials.py
+dataset/RC/Test10/Step.ewf._text
+dataset/RC/Test10/Step.ewf.fvm_surface.vtk
+*.vtk
+*._text
