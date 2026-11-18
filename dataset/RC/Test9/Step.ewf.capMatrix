@@ -1,0 +1,41 @@
+[Boundary full name table]
+	Net4  --  Net4
+	Net3  --  Net3
+	NET_2  --  NET_2[Al-Co]
+	NET_3  --  NET_3[Al_1-Co_1-TiAl_2-Cu_3]
+	NET_4  --  NET_4[Al_2-Co_2]
+	Net1  --  Net1
+	NET_6  --  NET_6[TiAl_1-Cu_4]
+	Net2  --  Net2
+[TOTAL] Net4		4.676670e-05 PF
+	Net4		Net3		2.334078e-05 PF
+	Net4		NET_2		1.027948e-05 PF
+	Net4		NET_3		9.886203e-06 PF
+	Net4		NET_4		2.813000e-06 PF
+	Net4		Net1		4.015739e-07 PF
+	Net4		NET_6		3.867522e-08 PF
+	Net4		Net2		6.987504e-09 PF
+[TOTAL] Net3		4.225301e-05 PF
+	Net3		Net4		2.334074e-05 PF
+	Net3		NET_2		8.163582e-06 PF
+	Net3		NET_3		7.869021e-06 PF
+	Net3		NET_4		2.571919e-06 PF
+	Net3		Net1		5.130477e-08 PF
+	Net3		NET_6		2.418579e-07 PF
+	Net3		Net2		1.458951e-08 PF
+[TOTAL] Net1		6.554541e-05 PF
+	Net1		Net4		4.015723e-07 PF
+	Net1		Net3		5.130404e-08 PF
+	Net1		NET_2		5.023618e-06 PF
+	Net1		NET_3		4.156529e-05 PF
+	Net1		NET_4		1.668055e-05 PF
+	Net1		NET_6		8.634844e-07 PF
+	Net1		Net2		9.595827e-07 PF
+[TOTAL] Net2		4.978304e-05 PF
+	Net2		Net4		6.983390e-09 PF
+	Net2		Net3		1.458390e-08 PF
+	Net2		NET_2		3.112156e-06 PF
+	Net2		NET_3		2.182940e-05 PF
+	Net2		NET_4		2.513499e-06 PF
+	Net2		Net1		9.595552e-07 PF
+	Net2		NET_6		2.134686e-05 PF
