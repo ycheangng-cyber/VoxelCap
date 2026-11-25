@@ -1,5 +1,0 @@
-VoxelCap 
-
-To run the binary executable please refer to following command:
-
-bin/leptonfd C matlib.txt Step4.25.ewf -FVM -M -G -renametable nets.txt -tol1e-6 -block-rhs 8 -nt 32 -nystrom-coarse-cholesky -nystrom-memory-mb 2048000
